@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/ebbflowgo/greentree/issues"
   },
-  "homepage": "https://github.com/ebbflowgo/greentree"
+  "homepage": "https://github.com/ebbflowgo/greentree",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.4.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
 }
